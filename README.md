@@ -66,6 +66,7 @@ Display an alert about this***
 Subsequent appearance of error tooltip text***  
 ### Test-Caseс №17      
 **test_password_and_password_confirmation_do_not_match**        
-***The input fields "Password" and "Password Confirmation" do not match in the "Registration" form***          
+***The input fields "Password" and "Password Confirmation" do not match in the "Registration" form***   
+        
 -------
 
