@@ -36,4 +36,6 @@ Display an alert about this***
 ### Test-Case N-10  
 **test_authorisation_valid**  
 ***Testing Registered User Authentication***   
-
+### Test-Case №11   
+**testing**  
+***Checking the presence and clickability of the "Support", "Write", "X" buttons, as well as closing the opened form***   
