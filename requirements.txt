@@ -1,0 +1,8 @@
+pytest
+pytest-selenium
+termcolor
+allure-python-commons
+selenium
+pip install pages
+import pytest
+import time
