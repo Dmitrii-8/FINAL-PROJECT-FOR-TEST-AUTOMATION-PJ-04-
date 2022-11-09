@@ -1,5 +1,5 @@
 ## Description of files  📝
-* *autotests_rostelecom.py contains web interface tests for Rostelecom*  
+* [*autotests_rostelecom.py contains web interface tests for Rostelecom*](autotests_rostelecom.py)
 
 * *conftest.py stores all the necessary code to detect failed test cases and take a screenshot if any test fails*   
 
