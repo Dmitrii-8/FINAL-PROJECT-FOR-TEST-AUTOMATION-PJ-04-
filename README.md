@@ -1,4 +1,3 @@
--------------
 ## Description of files  📝
 * *autotests_rostelecom.py contains web interface tests for Rostelecom*  
 
