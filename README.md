@@ -1,17 +1,17 @@
 ## Description of files  📝
 * *[autotests_rostelecom.py](autotests_rostelecom.py) contains web interface tests for [Rostelecom](https://b2c.passport.rt.ru/)*
 
-* *conftest.py stores all the necessary code to detect failed test cases and take a screenshot if any test fails*   
+* *[conftest.py](conftest.py) stores all the necessary code to detect failed test cases and take a screenshot if any test fails*   
 
-* *requirements.txt short list of requirements* 
+* *[requirements.txt](requirements.txt) short list of requirements* 
 ### In the page folder:     
-   * *auth_page.py authorization page for working with autotests*    
-   * *base.py contains a Python implementation of the PageObject template*     
-   * *pages/elements.py contains a helper class for defining web elements in web pages*      
-   * *registration_page.py is the registration page for working with autotests*     
+   * *[auth_page.py](pages/auth_page.py) authorization page for working with autotests*    
+   * *[base.py](pages/base.py) contains a Python implementation of the PageObject template*     
+   * *[pages/elements.py](pages/elements.py) contains a helper class for defining web elements in web pages*      
+   * *[registration_page.py](pages/registration_page.py) is the registration page for working with autotests*     
 ------
 ## Description of autotests :memo:
-### Test-Case №1  
+### Test-Case №1  :pencil2:
 **test_start_page_is_correct**  
 ***Correct display of the authorization page***    
 ### Test case №2  
