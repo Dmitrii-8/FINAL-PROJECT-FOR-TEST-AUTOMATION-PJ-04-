@@ -1,8 +1,8 @@
 ## Description of files
 ------
 ## Description of autotests
-Test-Case №1   
-Correct display of the authorization page  
+#### Test-Case №1   
+*Correct display of the authorization page*  
 Test case №2  
 Checking the presence and correct display of buttons and elements on the page  
 Test-Case №3 (FB-01)  
