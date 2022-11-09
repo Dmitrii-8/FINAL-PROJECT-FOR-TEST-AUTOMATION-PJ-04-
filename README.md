@@ -12,7 +12,7 @@
    > registration_page.py is the registration page for working with autotests  
 ------
 ## Description of autotests
-:white_check_mark:### Test-Case №1
+### Test-Case №1  :white_check_mark:
 **test_start_page_is_correct**  
 ***Correct display of the authorization page***    
 ### Test case №2
