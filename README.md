@@ -1,5 +1,5 @@
 ## Description of files  📝
-* ***autotests_rostelecom.py contains web interface tests for Rostelecom***  
+* *autotests_rostelecom.py contains web interface tests for Rostelecom*  
 
 * *conftest.py stores all the necessary code to detect failed test cases and take a screenshot if any test fails*   
 
@@ -66,4 +66,6 @@ Display an alert about this***
 Subsequent appearance of error tooltip text***  
 ### Test-Caseс №17  
 **test_password_and_password_confirmation_do_not_match**   
-***The input fields "Password" and "Password Confirmation" do not match in the "Registration" form***
+***The input fields "Password" and "Password Confirmation" do not match in the "Registration" form***   
+:heavy_check_mark:
+
