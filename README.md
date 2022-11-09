@@ -10,7 +10,7 @@
    * pages/elements.py contains a helper class for defining web elements in web pages      
    * registration_page.py is the registration page for working with autotests     
 ------
-## Description of autotests
+## Description of autotests :memo:
 ### Test-Case №1  
 **test_start_page_is_correct**  
 ***Correct display of the authorization page***    
