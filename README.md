@@ -18,4 +18,11 @@
 ### Test-Case №5  
 **test_registration_with_an_incorrect_value_in_the_name_field**   
 ***Negative test. Incorrect entry of a value in the field "Name" more than two characters during user registration  
-Subsequent appearance of the error hint text***  
+Subsequent appearance of the error hint text***    
+### Test-Case №6 (FB-03)
+**test_phone_tab**  
+***Selection tab name test "Number"***  
+### Test-Case №7  
+**test_registration_with_an_incorrect_value_in_the_last_name_field**  
+***Negative test. Incorrect entry of a value in the "Last name" field of more than thirty characters, when registering a user   
+Subsequent appearance of the error hint text***
