@@ -12,5 +12,10 @@
 ### Test-Case №3 (FB-01) 
 **test_location_of_page_blocks**  
 ***Checking for the presence of elements, both in the left and right blocks of the page***   
-**Test-Case №4 (FB-02)**   
+### Test-Case №4 (FB-02)  
+**test_registration_page_and_continue_button**  
 ***Checking the correct operation of the "Continue" button in the registration form***   
+### Test-Case №5  
+**test_registration_with_an_incorrect_value_in_the_name_field**   
+***Negative test. Incorrect entry of a value in the field "Name" more than two characters during user registration  
+Subsequent appearance of the error hint text***  
