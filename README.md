@@ -39,3 +39,23 @@ Display an alert about this***
 ### Test-Case №11   
 **testing**  
 ***Checking the presence and clickability of the "Support", "Write", "X" buttons, as well as closing the opened form***   
+### Test-Case №12 (FB-04)   
+**test_notification_form**  
+***Detailed test of window close button - "X"***
+### Test-Case №13  
+**test_authorization_of_a_user_with_an_invalid_password**  
+***Registered user login with wrong password in "Authorization" form
+"Forgot password" changes color to orange***   
+### Test-Case №14   
+**test_instead_of_cyrillic_invalid_characters**
+***When registering a new user, in the "Last name" input field, invalid characters instead of Cyrillic ("Registration" form)***   
+### Test-Case №15  
+**test_invalid_email_or_mobile_phone**  
+***Email in the input field is invalid (Email or mobile phone)***  
+### Test-Case №16  
+**test_incorrect_password_during_registration**  
+***When registering a new user, the password is less than eight characters,
+Subsequent appearance of error tooltip text***  
+### Test-Caseс №17  
+**test_password_and_password_confirmation_do_not_match**   
+***The input fields "Password" and "Password Confirmation" do not match in the "Registration" form***
