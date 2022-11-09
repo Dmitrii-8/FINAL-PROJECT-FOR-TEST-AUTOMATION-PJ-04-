@@ -25,4 +25,15 @@ Subsequent appearance of the error hint text***
 ### Test-Case №7  
 **test_registration_with_an_incorrect_value_in_the_last_name_field**  
 ***Negative test. Incorrect entry of a value in the "Last name" field of more than thirty characters, when registering a user   
-Subsequent appearance of the error hint text***
+Subsequent appearance of the error hint text***   
+### Test-Case №8  
+**test_registration_page_with_empty_name_field**   
+***Checking for user registration with an empty "name" field followed by the error tooltip text***   
+### Test-Case №9  
+**test_registration_of_an_already_registered_user**  
+***Negative test. User registration using a registered number
+Display an alert about this***   
+### Test-Case N-10  
+**test_authorisation_valid**  
+***Testing Registered User Authentication***   
+
