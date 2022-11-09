@@ -4,7 +4,7 @@
 * *[conftest.py](conftest.py) stores all the necessary code to detect failed test cases and take a screenshot if any test fails*   
 
 * *[requirements.txt](requirements.txt) short list of requirements* 
-### In the page folder:     
+#### In the page folder:     
    * *[auth_page.py](pages/auth_page.py) authorization page for working with autotests*    
    * *[base.py](pages/base.py) contains a Python implementation of the PageObject template*     
    * *[pages/elements.py](pages/elements.py) contains a helper class for defining web elements in web pages*      
