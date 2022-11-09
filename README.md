@@ -64,8 +64,8 @@ Display an alert about this***
 **test_incorrect_password_during_registration**  
 ***When registering a new user, the password is less than eight characters,
 Subsequent appearance of error tooltip text***  
-### Test-Caseс №17  
-**test_password_and_password_confirmation_do_not_match**   
-***The input fields "Password" and "Password Confirmation" do not match in the "Registration" form***   
+### Test-Caseс №17      
+**test_password_and_password_confirmation_do_not_match**        
+***The input fields "Password" and "Password Confirmation" do not match in the "Registration" form***          
 -------
 
