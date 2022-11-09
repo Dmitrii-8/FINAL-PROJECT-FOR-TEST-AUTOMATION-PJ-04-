@@ -1,5 +1,5 @@
 ## Description of files  📝
-* [*autotests_rostelecom.py](autotests_rostelecom.py) contains web interface tests for [Rostelecom](https://b2c.passport.rt.ru/)*
+* *[autotests_rostelecom.py](autotests_rostelecom.py) contains web interface tests for [Rostelecom](https://b2c.passport.rt.ru/)*
 
 * *conftest.py stores all the necessary code to detect failed test cases and take a screenshot if any test fails*   
 
